@@ -1,0 +1,226 @@
+.pd-1 {
+  padding: 45px;
+}
+
+.bg-login {
+  background-image: url("bg1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-muted {
+  background-image: url("bg1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-deck {
+  margin: 10px 0 10px 0;
+}
+
+/* style tambah.php */
+.bg-2 {
+  background-color: black;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+.crud-ui {
+  /*background-color: rgb(229, 177, 246);*/
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ui {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.tabel-data {
+  border-collapse: collapse;
+  color: black;
+  border: 1px solid rgb(181, 228, 250);
+  background-color: white;
+  margin-bottom: 50px;
+  width: 100%;
+}
+.tabel-data th {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  background-color: #97dbee;
+}
+.tabel-data td {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+}
+
+.tabel-data tr:hover {
+  background-color: rgb(226, 226, 226);
+}
+.tabel-edit {
+  width: 100%;
+}
+.tabel-edit td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.input-edit {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btnperawatan {
+  margin-top: 25px;
+  background-color: #1836bd;
+  border: none;
+  color: #ffffff;
+  width: 300px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+  transition-duration: 0.4s;
+  margin: 20px;
+  position: relative;
+}
+
+.btnperawatan:hover {
+  background-color: #050355;
+  color: white;
+}
+
+.btnpembelian {
+  margin-top: 25px;
+  background-color: #18bd3c;
+  border: none;
+  color: #ffffff;
+  width: 300px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+  transition-duration: 0.4s;
+  margin: 20px;
+}
+
+.btnpemebalian:hover {
+  background-color: #065503;
+  color: white;
+}
+
+.btnhome {
+  margin-top: 25px;
+  background-color: #ff7300;
+  border: none;
+  color: #ffffff;
+  width: 100px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+  transition-duration: 0.4s;
+  margin: 20px;
+}
+
+.btnhome:hover {
+  background-color: #b98108;
+  color: white;
+}
+
+.btn-kirim {
+  margin-top: 25px;
+  background-color: #1836bd;
+  border: none;
+  color: #ffffff;
+  width: 100px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  float: right;
+  border-radius: 5px;
+  transition-duration: 0.4s;
+}
+.btn-kirim:hover {
+  background-color: #050355;
+  color: white;
+}
+.btn-simpan {
+  margin-top: 25px;
+  background-color: #2ae62a;
+  border: none;
+  color: #ffffff;
+  width: 100px;
+  padding: 10px;
+  text-align: center;
+  float: right;
+  border-radius: 5px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn-simpan:hover {
+  background-color: #128612;
+  color: white;
+}
+.btn-edit {
+  background-color: #53c53c;
+  border: none;
+  color: white;
+  width: 50px;
+  padding: 6px;
+  font-size: 10px;
+  border-radius: 3px;
+  transition-duration: 0.3s;
+  margin-right: 10px;
+}
+.btn-edit:hover {
+  background-color: #357920;
+  color: white;
+}
+.btn-hapus {
+  background-color: #d62b2b;
+  border: none;
+  color: white;
+  width: 50px;
+  padding: 6px;
+  font-size: 10px;
+  border-radius: 3px;
+  transition-duration: 0.3s;
+}
+.btn-hapus:hover {
+  background-color: #ac2e2e;
+  color: white;
+}
+.btn-opsi {
+  text-align: center;
+}
+
+.papan-input {
+  background-color: rgb(237, 237, 237);
+  width: 500px;
+  padding: 50px;
+  padding-bottom: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  border-radius: 10px;
+}
+
+.select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+/* end style tambah.php */
